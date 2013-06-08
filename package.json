@@ -1,6 +1,6 @@
 {
   "name": "mypeople",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "MyPeople Node API",
   "main": "./lib/main",
   "scripts": {
