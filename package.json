@@ -13,6 +13,9 @@
   "keywords": [
     "mypeople"
   ],
+  "dependencies": {
+    "express": ">=3.2.0"
+  },
   "author": "Daegeun Kim <dgkim84@gmail.com>",
   "license": "MIT"
 }
