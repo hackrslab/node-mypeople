@@ -4,6 +4,8 @@ MyPeople API 다시 만들었습니다. 물론 DAUM에서 제공한 코드 중 �
 
 * hubot 을 만들기위해서 급하게 만든 프로젝트입니다. 물론 대충 만들어서 테스트코드나 코드는 엉망이예요. :-)
 
+[Hubot MyPeople Adapter](https://github.com/dgkim84/hubot-mypeople)
+
 ## Install
 
 ```shell
