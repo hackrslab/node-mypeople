@@ -29,7 +29,7 @@ client.sendGroupMessage(groupId, content, callback);
 client.getFriendInfo(buddyId, callback);
 client.getGroupMembers(groupId, callback);
 client.exitGroup(groupId, callback);
-client.download(fileId, filename);
+client.download(fileId).pipe(fs.createWriteStream(...));
 
 # stream readable 객체면 첨부파일로 보냅니다. 해보니까 첨부파일은 메세지와 함께 전송은 안되는 것 같습니다. 그래서 변수는 하나만 받아요. 그룹 전송도 동일.
 client.sendMessage(buddyId, fstream.Reader("path/to/dir"))
