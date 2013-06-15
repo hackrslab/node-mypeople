@@ -8,7 +8,7 @@
 
 ## Examples
 
-* Echo Bot - https://github.com/dgkim84/node-mypeople-echo
+* Echo Bot - https://github.com/dgkim84/node-mypeople-bots
 * 그 외 이 라이브러리로 만드신 분은 [Wiki](https://github.com/dgkim84/node-mypeople/wiki/Examples)를 수정해주세요.
 
 ## How to contribute
