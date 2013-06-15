@@ -17,5 +17,7 @@
     "express": ">=3.2.0"
   },
   "author": "Daegeun Kim <dgkim84@gmail.com>",
-  "license": "MIT"
+  "licenses": [
+    {"type": "MIT", "url": "https://github.com/dgkim84/node-mypeople/blob/master/LICENSE"}
+  ]
 }
