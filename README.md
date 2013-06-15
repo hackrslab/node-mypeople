@@ -6,6 +6,11 @@
 
 기타 문의는 [Twitter](https://twitter.com/GeekDani)로 문의 주세요. 안 되는 경우엔 문의 주세요.
 
+## Examples
+
+* Echo Bot - https://github.com/dgkim84/node-mypeople-echo
+* 그 외 이 라이브러리로 만드신 분은 [Wiki](https://github.com/dgkim84/node-mypeople/wiki/Examples)를 수정해주세요.
+
 ## How to contribute
 
 * 위키 문서는 누구나 변경이 가능합니다.
