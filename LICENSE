@@ -22,3 +22,6 @@ THE SOFTWARE.
 
 This program uses "express", Copyright (c) TJ Holowaychuk <tj@vision-media.ca>,
 according to the terms of the MIT license.
+
+This program uses "request", Copyright (c) Mikeal Rogers,
+according to the terms of the Apache license.
